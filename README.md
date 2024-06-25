@@ -1,16 +1,18 @@
-## Hi there 👋
+##  BEM VINDO AO MEU PERFIL
 
-<!--
-**guilherme5187/guilherme5187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme
 
-Here are some ideas to get you started:
+- estou estudando na Alura
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar comigo 
+
+00001154532422sp@al.educaco.sp.gov.br
+
+@gui_sv678
+
+
+
+
+![]()https://tenor.com/pt-BR/view/teq-ultimate-gohan-teen-gohan-adult-gohan-dragon-ball-dragon-ball-z-gif-3237607746566023736
